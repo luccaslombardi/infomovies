@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class InfomoviesApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(InfomoviesApplication.class, args);
 	}
 

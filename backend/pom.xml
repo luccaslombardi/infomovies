@@ -12,7 +12,7 @@
 	<artifactId>infomovies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>infomovies</name>
-	<description>Project to avaliate and search movies</description>
+	<description>Project to search and avaliate movies</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -48,6 +48,16 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>RELEASE</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
