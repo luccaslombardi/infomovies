@@ -1,4 +1,4 @@
-package com.luccaslombardi.demo;
+package com.luccaslombardi.infomovies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

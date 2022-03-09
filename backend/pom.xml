@@ -12,7 +12,7 @@
 	<artifactId>infomovies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>infomovies</name>
-	<description>Project to seach and staring movies</description>
+	<description>Project to avaliate and search movies</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
